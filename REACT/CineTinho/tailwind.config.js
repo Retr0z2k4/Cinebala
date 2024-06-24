@@ -7,7 +7,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        'primary-digolinha': 'black'
+        'color_roxo1': `#694070`,
+        'color_roxo2': `#E1D7E8`,
+        'color_roxo3': `#DEC0F3`,
+        'color_preto': `#2B2B2B`,
+        'color_branco': `#ffffff`, 
+        'color_cinza' : `#1f1f1f`,
+        'color_azul' : `#001586`
       }
     },
   },

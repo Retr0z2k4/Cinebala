@@ -24,4 +24,4 @@ function Filmes() {
     </> );
 }
 
-export default Filmes;
+export default Filmes;  
